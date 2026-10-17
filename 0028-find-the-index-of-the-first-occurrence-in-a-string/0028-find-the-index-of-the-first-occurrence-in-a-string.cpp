@@ -14,7 +14,7 @@ public:
         }
 
         // Only search up to the point where needle can still fit
-        for (int i = 0; i <= n - m; i++) {
+        for (int i = 0; i <n; i++) {
             // Optional optimization: check the first character before extracting
             if (haystack[i] == needle[0]) {
                 if (haystack.substr(i, m) == needle) {
