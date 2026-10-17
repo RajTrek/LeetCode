@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RajTrek/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RajTrek/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/RajTrek/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RajTrek/LeetCode/tree/master/0344-reverse-string) |
@@ -69,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RajTrek/LeetCode/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/RajTrek/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/RajTrek/LeetCode/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/RajTrek/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
