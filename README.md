@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RajTrek/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RajTrek/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajTrek/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/RajTrek/LeetCode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RajTrek/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RajTrek/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajTrek/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RajTrek/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RajTrek/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/RajTrek/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/RajTrek/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RajTrek/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajTrek/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/RajTrek/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/RajTrek/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/RajTrek/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RajTrek/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RajTrek/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/RajTrek/LeetCode/tree/master/0071-simplify-path) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RajTrek/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RajTrek/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajTrek/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/RajTrek/LeetCode/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/RajTrek/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
